@@ -60,7 +60,7 @@ Provide a consolidated shopping list in strict Markdown checklist format.
 
 - Do not use tables.
 - Group items under headings such as `## Fresh Produce`, `## Meat & Poultry`, `## Dairy`, and `## Pantry`.
-- Use standard bullet points with checkboxes, for example: `- [ ] 2 cloves garlic`
+- Use standard bullet points, for example: `- 2 cloves garlic`
 - Sum exact weekly quantities into single line items.
 - Ensure the list reflects only the ingredients required across the verified recipes.
 
